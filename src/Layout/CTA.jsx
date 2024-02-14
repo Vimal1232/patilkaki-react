@@ -2,7 +2,7 @@ import React from "react";
 
 const CTA = () => {
   return (
-    <section>
+    <section id="Contact">
       <div>
         <div className="flex flex-col items-center justify-center text-center gap-5">
           <h1 className="text-primary text-[56px] font-GeneralSans font-bold max-sm:text-[40px]">
